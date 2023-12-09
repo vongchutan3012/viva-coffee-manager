@@ -1,0 +1,39 @@
+.account-search-container{
+    background-color: #f2f2f2;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between; 
+    max-width: 750px; /* Đặt giới hạn tối đa cho chiều rộng */
+}
+
+ .account-search-container input {
+    margin: 0 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.account-search-container button{
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+/*--------------------------------------*/
+/* Thiết kế cho table div */
+.table-container {
+    margin: 20px;
+}
+
+/* Thiết kế cho bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}

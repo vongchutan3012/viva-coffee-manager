@@ -1,0 +1,12 @@
+@font-face {
+    font-family: smooch;
+    src: url(./components/fonts/Smooch-Regular.ttf);
+}
+
+
+@import url(styles/item-product.css);
+@import url(styles/order.css);
+@import url(styles/accountList.css);
+@import url(styles/mainpage.css);
+@import url(styles/form.css);
+@import url(styles/accountAdd.css);
